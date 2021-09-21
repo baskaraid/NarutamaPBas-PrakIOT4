@@ -1,0 +1,8 @@
+From Gpio Import  berfungsi untuk multi file maksudnya yaitu kita dapat memanggil file 
+lain di dalam satu module yang berbeda.
+
+dan terdapat Time Import 
+
+if jika sesor tidak ada gerakan maka lampu tidak menyala/LED dan garasi tidak terbuka
+ketika else ada gerakan mengarah kesensor maka akan High atau LED menyala dan Garasi 
+akan terbuka
